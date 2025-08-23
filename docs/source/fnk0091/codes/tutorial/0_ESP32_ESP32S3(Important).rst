@@ -14,6 +14,8 @@ https://freenove.com/fnk0047/
 
 Or you can visit our github to download: 
 
+https://github.com/Freenove/Freenove_Ultimate_Starter_Kit_for_ESP32_S3
+
 Regarding the programming instructions for the Freenove ESP32S3 WROOM Board, we won't delve into them here. 
 
 If you're interested, please refer to the following resources:
@@ -28,21 +30,26 @@ For Python Programming Tutorial, you can refer to
 Board Assembly
 ================================================
 
-+----------------------------------------------------------------------------------------------------------------------------+
-| Please pay attention to the position of the antenna and ensure that the ESP32S3 is correctly inserted onto the base board. |
-|                                                                                                                            |
-| |Chapter00_00|                                                                                                             |
-+----------------------------------------------------------------------------------------------------------------------------+
-| After assembly:                                                                                                            |
-|                                                                                                                            |
-| |Chapter00_01|                                                                                                             |
-|                                                                                                                            |
-| :red:`Note:`                                                                                                               |
-|                                                                                                                            |
-| :red:`1. For all pins marked “*”, their pin numbers depends on those of the esp32 board in use.`                           |
-|                                                                                                                            |
-| :red:`2. Note: The S terminal of the breakout board directly connects to the pins of the ESP32 board.`                     |
-+----------------------------------------------------------------------------------------------------------------------------+
+.. table:: 
+    :align: center
+    :class: table-line
+    :width: 80%
+
+    +----------------------------------------------------------------------------------------------------------------------------+
+    | Please pay attention to the position of the antenna and ensure that the ESP32S3 is correctly inserted onto the base board. |
+    |                                                                                                                            |
+    | |Chapter00_00|                                                                                                             |
+    +----------------------------------------------------------------------------------------------------------------------------+
+    | After assembly:                                                                                                            |
+    |                                                                                                                            |
+    | |Chapter00_01|                                                                                                             |
+    |                                                                                                                            |
+    | :red:`Note:`                                                                                                               |
+    |                                                                                                                            |
+    | :red:`1. For all pins marked “*”, their pin numbers depends on those of the esp32 board in use.`                           |
+    |                                                                                                                            |
+    | :red:`2. Note: The S terminal of the breakout board directly connects to the pins of the ESP32 board.`                     |
+    +----------------------------------------------------------------------------------------------------------------------------+
 
 .. |Chapter00_00| image:: ../_static/imgs/0_ESP32_ESP32S3(Important)/Chapter00_00.png
 .. |Chapter00_01| image:: ../_static/imgs/0_ESP32_ESP32S3(Important)/Chapter00_01.png
@@ -74,17 +81,22 @@ For Python Programming Tutorial, you can refer to
 Board Assembly
 ==============================================
 
-+----------------------------------------------------------------------------------------------------------------------------+
-| Please pay attention to the position of the antenna and ensure that the ESP32S3 is correctly inserted onto the base board. |
-|                                                                                                                            |
-| |Chapter00_02|                                                                                                             |
-+----------------------------------------------------------------------------------------------------------------------------+
-| After assembly:                                                                                                            |
-|                                                                                                                            |
-| |Chapter00_03|                                                                                                             |
-|                                                                                                                            |
-| :red:`Note: The S terminal of the breakout board directly connects to the pins of the ESP32 board.`                        |
-+----------------------------------------------------------------------------------------------------------------------------+
+.. table:: 
+    :align: center
+    :class: table-line
+    :width: 80%
+
+    +----------------------------------------------------------------------------------------------------------------------------+
+    | Please pay attention to the position of the antenna and ensure that the ESP32S3 is correctly inserted onto the base board. |
+    |                                                                                                                            |
+    | |Chapter00_02|                                                                                                             |
+    +----------------------------------------------------------------------------------------------------------------------------+
+    | After assembly:                                                                                                            |
+    |                                                                                                                            |
+    | |Chapter00_03|                                                                                                             |
+    |                                                                                                                            |
+    | :red:`Note: The S terminal of the breakout board directly connects to the pins of the ESP32 board.`                        |
+    +----------------------------------------------------------------------------------------------------------------------------+
 
 .. |Chapter00_02| image:: ../_static/imgs/0_ESP32_ESP32S3(Important)/Chapter00_02.png
 .. |Chapter00_03| image:: ../_static/imgs/0_ESP32_ESP32S3(Important)/Chapter00_03.png
@@ -114,21 +126,26 @@ For Python Programming Tutorial, you can refer to **Freenove_ESP32_WROOM_Board\\
 Board Assembly
 ===============================================
 
-+--------------------------------------------------------------------------------------------------------------------------+
-| Please pay attention to the position of the antenna and ensure that the ESP32 is correctly inserted onto the base board. |
-|                                                                                                                          |
-| |Chapter00_04|                                                                                                           |
-+--------------------------------------------------------------------------------------------------------------------------+
-| After assembly:                                                                                                          |
-|                                                                                                                          |
-| |Chapter00_05|                                                                                                           |
-|                                                                                                                          |
-| :red:`Note:`                                                                                                             |
-|                                                                                                                          |
-| :red:`1. For all pins marked “*”, their pin numbers depends on those of the esp32 board in use.`                         |
-|                                                                                                                          |
-| :red:`2. Note: The S terminal of the breakout board directly connects to the pins of the ESP32 board.`                   |
-+--------------------------------------------------------------------------------------------------------------------------+
+.. table:: 
+    :align: center
+    :class: table-line
+    :width: 80%
+
+    +--------------------------------------------------------------------------------------------------------------------------+
+    | Please pay attention to the position of the antenna and ensure that the ESP32 is correctly inserted onto the base board. |
+    |                                                                                                                          |
+    | |Chapter00_04|                                                                                                           |
+    +--------------------------------------------------------------------------------------------------------------------------+
+    | After assembly:                                                                                                          |
+    |                                                                                                                          |
+    | |Chapter00_05|                                                                                                           |
+    |                                                                                                                          |
+    | :red:`Note:`                                                                                                             |
+    |                                                                                                                          |
+    | :red:`1. For all pins marked “*”, their pin numbers depends on those of the esp32 board in use.`                         |
+    |                                                                                                                          |
+    | :red:`2. Note: The S terminal of the breakout board directly connects to the pins of the ESP32 board.`                   |
+    +--------------------------------------------------------------------------------------------------------------------------+
 
 .. |Chapter00_04| image:: ../_static/imgs/0_ESP32_ESP32S3(Important)/Chapter00_04.png
 .. |Chapter00_05| image:: ../_static/imgs/0_ESP32_ESP32S3(Important)/Chapter00_05.png

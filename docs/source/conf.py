@@ -12,9 +12,6 @@ import sys
 
 sys.path.insert(0, pathlib.Path(__file__).parents[2].resolve().as_posix())
 
-# os.system("rm -r freenove_Kit")
-# os.system("git clone --depth 1 这里放对应的Github地址 freenove_Kit")
-
 project = "fnk0091-docs"
 # <!!!BEGIN!!!>
 from docutils import nodes

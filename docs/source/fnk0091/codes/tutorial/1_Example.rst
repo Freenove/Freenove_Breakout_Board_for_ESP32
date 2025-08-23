@@ -14,6 +14,7 @@ Component List
 
 .. table::
     :align: center
+    :class: table-line
 
     +-----------------+---------------------+----------------+
     | ESP32 WROVER x1 | ESP32 S3 WROOM 1 x1 | ESP32 WROOM x1 |

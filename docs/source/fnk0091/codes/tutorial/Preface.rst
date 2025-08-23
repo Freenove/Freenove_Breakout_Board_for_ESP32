@@ -43,29 +43,33 @@ The hardware interfaces are distributed as follows:
     :align: center
     :width: 50%
 
-+--------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| |Preface_02| | External Power Interface: Please use a 7-12V power supply, and it is recommended to use a 12V 5A power supply.                                                   |
-+--------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| |Preface_03| | Power Supply Interface: Please note that the 3.3V interface can only output a maximum of 0.5A current.                                                           |
-|              |                                                                                                                                                                  |
-|              | It is suggested for powering external chips and not recommended for use in external high-current circuits.                                                       |
-+--------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| |Preface_04| | ESP32/ESP32S3 Interface: Pay attention to the antenna's position and do not insert the ESP32/ESP32S3 reversely.                                                  |
-|              |                                                                                                                                                                  |
-|              | When inserting, ensure the interface is correctly connected before applying power to the power supply interface to avoid damaging the board due to misalignment. |
-+--------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| |Preface_05| | Indicator LED Circuit: LEDs can indicate the level status of ESP32/ESP32S3 pins.                                                                                 |
-|              |                                                                                                                                                                  |
-|              | The inner row of silkscreen indicates the pin distribution for the ESP32, while the outer row is for the ESP32S3.                                                |
-+--------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| |Preface_06| | Pin Expansion: The yellow header connects to the ESP32/ESP32S3 interface.                                                                                        |
-|              |                                                                                                                                                                  |
-|              | The red header receives power from the external power supply, supporting a maximum of 3A current.                                                                |
-|              |                                                                                                                                                                  |
-|              | The black header connects to the external power ground.                                                                                                          |
-+--------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| |Preface_07| | Pin Expansion: Terminal blocks connect to the ESP32/ESP32S3 interface.                                                                                           |
-+--------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+.. table:: 
+    :align: center
+    :class: table-line
+
+    +--------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+    | |Preface_02| | External Power Interface: Please use a 7-12V power supply, and it is recommended to use a 12V 5A power supply.                                                   |
+    +--------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+    | |Preface_03| | Power Supply Interface: Please note that the 3.3V interface can only output a maximum of 0.5A current.                                                           |
+    |              |                                                                                                                                                                  |
+    |              | It is suggested for powering external chips and not recommended for use in external high-current circuits.                                                       |
+    +--------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+    | |Preface_04| | ESP32/ESP32S3 Interface: Pay attention to the antenna's position and do not insert the ESP32/ESP32S3 reversely.                                                  |
+    |              |                                                                                                                                                                  |
+    |              | When inserting, ensure the interface is correctly connected before applying power to the power supply interface to avoid damaging the board due to misalignment. |
+    +--------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+    | |Preface_05| | Indicator LED Circuit: LEDs can indicate the level status of ESP32/ESP32S3 pins.                                                                                 |
+    |              |                                                                                                                                                                  |
+    |              | The inner row of silkscreen indicates the pin distribution for the ESP32, while the outer row is for the ESP32S3.                                                |
+    +--------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+    | |Preface_06| | Pin Expansion: The yellow header connects to the ESP32/ESP32S3 interface.                                                                                        |
+    |              |                                                                                                                                                                  |
+    |              | The red header receives power from the external power supply, supporting a maximum of 3A current.                                                                |
+    |              |                                                                                                                                                                  |
+    |              | The black header connects to the external power ground.                                                                                                          |
+    +--------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+    | |Preface_07| | Pin Expansion: Terminal blocks connect to the ESP32/ESP32S3 interface.                                                                                           |
+    +--------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 .. |Preface_02| image:: ../_static/imgs/Preface/Preface02.png
 .. |Preface_03| image:: ../_static/imgs/Preface/Preface03.png
