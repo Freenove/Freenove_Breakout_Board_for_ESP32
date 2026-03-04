@@ -37,4 +37,5 @@ This product provides the following online documents.
    fnk0091/codes/tutorial/Preface.rst
    fnk0091/codes/tutorial/0_ESP32_ESP32S3(Important).rst
    fnk0091/codes/tutorial/1_Example.rst
+   fnk0091/codes/tutorial/Design_Explanation.rst
    fnk0091/codes/tutorial/What_s_Next.rst
